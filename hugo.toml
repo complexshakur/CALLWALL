@@ -1,4 +1,4 @@
-baseURL = "https://complexshakur.github.io/CALLWALL/"
+baseURL = 'http://localhost:1313/'
 title = "CallWall Solutions"
 author = "CallWall Solutions"
 languageCode = "en"
